@@ -1,6 +1,8 @@
+![Example Image](https://th.bing.com/th/id/OIP.uU6JnMaYh0-4QlMmvO5tNwHaEu?rs=1&pid=ImgDetMain)
+
 ## Usage
 
-Clone the Repository: git clone (https://github.com/annie-81/PRODIGY_CS_02.git)
+Clone the Repository: git clone https://github.com/annie-81/PRODIGY_CS_02.git
 
 ## Aim
 
