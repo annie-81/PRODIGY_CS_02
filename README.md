@@ -6,13 +6,9 @@ Clone the Repository: git clone (https://github.com/annie-81/PRODIGY_CS_02.git)
 
 Pixel Manipulation using simple operation (addition)
 
-## Navigate to the Directory:
-
-cd PRODIGY_CS_02
-
 ## Requirements
 
-Pillow library
+IDE, Pillow library
 
 ## Run the Script
 
