@@ -1,6 +1,6 @@
 ## Usage
 
-Clone the Repository: git clone (https://github.com/annie-81/PRODIGY_CS_02.git)
+Clone the Repository: git clone https://github.com/annie-81/PRODIGY_CS_02.git
 
 ## Aim
 
